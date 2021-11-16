@@ -1,0 +1,22 @@
+{
+  "name": "sabius-github-pages",
+  "version": "1.0.0",
+  "description": "An initial test of a site built with Jamstack for Github pages.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabius/sabius.github.io.git"
+  },
+  "author": "Gonzalo Dániel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabius/sabius.github.io/issues"
+  },
+  "homepage": "https://github.com/sabius/sabius.github.io#readme"
+}
